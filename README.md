@@ -97,9 +97,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TulasiPrasad-25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TulasiPrasad-25&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TulasiPrasad-25&theme=tokyonight&hide_border=true" width="60%" />
@@ -130,8 +128,3 @@ I'm actively looking for **ML / AI / Data Science** roles. If you have an opport
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TulasiPrasad-25&label=Profile%20Views&color=00F7FF&style=flat" />
-</p>
-
-<p align="center">⭐ <i>If you find my projects useful, consider giving them a star!</i> ⭐</p>
