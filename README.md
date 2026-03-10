@@ -94,24 +94,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TulasiPrasad-25&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
-## 💬 Fun Fact
-
-> *"The best way to learn Machine Learning is to build things that break — and then fix them."*
->
-> — Something I truly believe after debugging models at 2 AM 😄
-
----
 
 ## 🤝 Let's Connect
 
